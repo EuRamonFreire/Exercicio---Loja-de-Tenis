@@ -10,8 +10,8 @@
     width: 100%;
     margin: 0 auto;
     display: flex;
-    align-items: center;
     justify-content: space-between;
+    margin-top: 25px;
 }
 
 header {
@@ -30,6 +30,30 @@ header nav li a {
     color: #ecf0f1;
     text-decoration: none;
 }
+
+section .interface {
+    padding: 40px 16.8%;
+}
+
+.txt-sobre h2 {
+    color: rgb(84, 84, 225);
+    margin-bottom: 5px;
+}
+
+.txt-sobre hr {
+    margin-bottom: 35px;
+    border-top: 3px solid rgb(84, 84, 225);
+}
+
+.txt-sobre p {
+    font-size: 20px;
+}
+.store-front {
+    width: 400px;
+    height: 400px;
+    margin-right: 35px;
+}
+
 
 
 
