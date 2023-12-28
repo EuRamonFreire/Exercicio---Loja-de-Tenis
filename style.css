@@ -31,10 +31,6 @@ header nav li a {
     text-decoration: none;
 }
 
-section .interface {
-    padding: 40px 16.8%;
-}
-
 .txt-sobre h2 {
     color: rgb(84, 84, 225);
     margin-bottom: 5px;
@@ -53,6 +49,64 @@ section .interface {
     height: 400px;
     margin-right: 35px;
 }
+
+.container h2 {
+    color: rgb(84, 84, 225);
+    margin-bottom: 5px;
+}
+
+.nossos-produtos {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.nossos-produtos h2 {
+    color: rgb(84, 84, 225);
+    margin-bottom: 5px;
+    margin-top: 60px;
+} 
+.nossos-produtos hr {
+    margin-bottom: 35px;
+    border-top: 3px solid rgb(84, 84, 225);
+}
+
+.container-flex {
+    display: flex;
+}
+
+.lista-tenis li {
+    list-style: none;
+}
+
+.lista-tenis p {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.lista-tenis {
+    justify-content: space-between;
+}
+
+.lista-tenis li button {
+    display: block;
+    width: 95%;
+    margin-bottom: 35px;
+    padding: 8px 0 ;
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(84, 84, 225);
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+
+
 
 
 
